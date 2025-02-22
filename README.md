@@ -5,7 +5,7 @@
 - 🎓 Echols Scholar at UVA double majoring in Computer Science and Public Policy
 - 🌍 Working on exciting projects in Data Engineering right now!
 - ⚡ Currently learning more about **Backend Development** & **Machine Learning Matching**
-- - 🎯 Passionate about Computer Science, Public Policy, and Innovation!
+- 🎯 Passionate about Computer Science, Public Policy, and Innovation!
 -  Fun fact: I love **hiking**
 
 ## 🚀 Tech Stack
@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,cpp,java" />
 </p>
 
-## 🚀 My Projects
+## 🚀 Some of my projects
 
 | Project | Description | Technologies |
 |---------|------------|--------------|
@@ -21,6 +21,7 @@
 | [🎨 Project 2](https://github.com/your-repo-2) | Cascade.ai - The AI Meeting Facilitator | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django) |
 | [💡 Project 3](https://github.com/your-repo-3) | My portfolio website (Yashfolio) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) |
 | [💡 Project 4](https://github.com/your-repo-4) | Financial Legislation Tracking Tool | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) |
+| [💡 Project 3](https://github.com/your-repo-3) | Global Research and Consulting @ UVA Website) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) |
 
 
 ## 📬 Connect With Me
